@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DotNetCrudApp/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.0-preview.3.24172.4",
+          "Microsoft.EntityFrameworkCore.InMemory": "9.0.0-preview.3.24172.4"
+        },
+        "runtime": {
+          "DotNetCrudApp.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore/9.0.0-preview.3.24172.4": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "9.0.0-preview.3.24172.4"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.17204"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/9.0.0-preview.3.24172.4": {
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.17204"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.InMemory/9.0.0-preview.3.24172.4": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.0-preview.3.24172.4"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.17204"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetCrudApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore/9.0.0-preview.3.24172.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8048WxaAf8UHdeaBlfkvUZMjH42zKOfaFEQHLTi5xqs7TDjiH69yHfrk0wLG56FeMX/d0Fm0QyO5Q1fAKDUDNA==",
+      "path": "microsoft.entityframeworkcore/9.0.0-preview.3.24172.4",
+      "hashPath": "microsoft.entityframeworkcore.9.0.0-preview.3.24172.4.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/9.0.0-preview.3.24172.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kXxQ0X4VO9lot9D6pU2QkBI7BKsTHSMUC7sw9XLjIpW6TErMEq9k8p8buapJssQNjYsaMpSAqvBSV7D1yCzczQ==",
+      "path": "microsoft.entityframeworkcore.abstractions/9.0.0-preview.3.24172.4",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.9.0.0-preview.3.24172.4.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/9.0.0-preview.3.24172.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QbPLoUF13TqLkgBZzP+FtGhS0AC/CA8/GiKv35j9D0A7Tcro5mMWSyX3fm7hlf5HvuPcg90ilLCckGuvioGSRw==",
+      "path": "microsoft.entityframeworkcore.inmemory/9.0.0-preview.3.24172.4",
+      "hashPath": "microsoft.entityframeworkcore.inmemory.9.0.0-preview.3.24172.4.nupkg.sha512"
+    }
+  }
+}

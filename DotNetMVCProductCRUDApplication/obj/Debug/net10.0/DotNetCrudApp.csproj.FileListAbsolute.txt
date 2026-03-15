@@ -1,0 +1,68 @@
+C:\Users\Alper\Desktop\DotNetCrudApp\bin\Debug\net10.0\DotNetCrudApp.staticwebassets.endpoints.json
+C:\Users\Alper\Desktop\DotNetCrudApp\bin\Debug\net10.0\DotNetCrudApp.exe
+C:\Users\Alper\Desktop\DotNetCrudApp\bin\Debug\net10.0\DotNetCrudApp.deps.json
+C:\Users\Alper\Desktop\DotNetCrudApp\bin\Debug\net10.0\DotNetCrudApp.runtimeconfig.json
+C:\Users\Alper\Desktop\DotNetCrudApp\bin\Debug\net10.0\DotNetCrudApp.dll
+C:\Users\Alper\Desktop\DotNetCrudApp\bin\Debug\net10.0\DotNetCrudApp.pdb
+C:\Users\Alper\Desktop\DotNetCrudApp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alper\Desktop\DotNetCrudApp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alper\Desktop\DotNetCrudApp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCrudApp.csproj.AssemblyReference.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCrudApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCrudApp.AssemblyInfoInputs.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCrudApp.AssemblyInfo.cs
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCrudApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCrudApp.RazorAssemblyInfo.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCrudApp.RazorAssemblyInfo.cs
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\scopedcss\bundle\DotNetCrudApp.styles.css
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCr.497168BC.Up2Date
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCrudApp.dll
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\refint\DotNetCrudApp.dll
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCrudApp.pdb
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\DotNetCrudApp.genruntimeconfig.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net10.0\ref\DotNetCrudApp.dll
+C:\Users\Alper\Desktop\DotNetCrudApp\bin\Debug\net10.0\DotNetCrudApp.staticwebassets.runtime.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\bin\Debug\net10.0\DotNetCrudApp.staticwebassets.endpoints.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\bin\Debug\net10.0\DotNetCrudApp.staticwebassets.runtime.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\bin\Debug\net10.0\DotNetCrudApp.exe
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\bin\Debug\net10.0\DotNetCrudApp.deps.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\bin\Debug\net10.0\DotNetCrudApp.runtimeconfig.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\bin\Debug\net10.0\DotNetCrudApp.dll
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\bin\Debug\net10.0\DotNetCrudApp.pdb
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCrudApp.csproj.AssemblyReference.cache
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCrudApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCrudApp.AssemblyInfoInputs.cache
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCrudApp.AssemblyInfo.cs
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCrudApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCrudApp.RazorAssemblyInfo.cache
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCrudApp.RazorAssemblyInfo.cs
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\scopedcss\bundle\DotNetCrudApp.styles.css
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCr.497168BC.Up2Date
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCrudApp.dll
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\refint\DotNetCrudApp.dll
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCrudApp.pdb
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\DotNetCrudApp.genruntimeconfig.cache
+C:\Users\Alper\Desktop\Diğer Kodlar\Alper Taşdemir 312471003\obj\Debug\net10.0\ref\DotNetCrudApp.dll

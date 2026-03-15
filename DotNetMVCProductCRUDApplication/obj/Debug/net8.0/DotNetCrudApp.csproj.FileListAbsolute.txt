@@ -1,0 +1,8 @@
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net8.0\DotNetCrudApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net8.0\DotNetCrudApp.AssemblyInfoInputs.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net8.0\DotNetCrudApp.AssemblyInfo.cs
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net8.0\DotNetCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net8.0\DotNetCrudApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net8.0\DotNetCrudApp.RazorAssemblyInfo.cache
+C:\Users\Alper\Desktop\DotNetCrudApp\obj\Debug\net8.0\DotNetCrudApp.RazorAssemblyInfo.cs

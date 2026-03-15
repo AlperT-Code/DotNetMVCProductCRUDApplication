@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "6MeL+UrN8vE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alper\\Desktop\\Diğer Kodlar\\Alper Taşdemir 312471003\\DotNetCrudApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alper\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\Alper\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\Alper\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.analyzers.9.0.0-preview.3.24172.4.nupkg.sha512",
+    "C:\\Users\\Alper\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\9.0.0-preview.3.24172.4\\microsoft.entityframeworkcore.inmemory.9.0.0-preview.3.24172.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "DotNetCrudApp depends on Microsoft.EntityFrameworkCore (>= 9.0.0-preview.3) but Microsoft.EntityFrameworkCore 9.0.0-preview.3 was not found. Microsoft.EntityFrameworkCore 9.0.0-preview.3.24172.4 was resolved instead.",
+      "projectPath": "C:\\Users\\Alper\\Desktop\\Diğer Kodlar\\Alper Taşdemir 312471003\\DotNetCrudApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Alper\\Desktop\\Diğer Kodlar\\Alper Taşdemir 312471003\\DotNetCrudApp.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "DotNetCrudApp depends on Microsoft.EntityFrameworkCore.InMemory (>= 9.0.0-preview.3) but Microsoft.EntityFrameworkCore.InMemory 9.0.0-preview.3 was not found. Microsoft.EntityFrameworkCore.InMemory 9.0.0-preview.3.24172.4 was resolved instead.",
+      "projectPath": "C:\\Users\\Alper\\Desktop\\Diğer Kodlar\\Alper Taşdemir 312471003\\DotNetCrudApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Alper\\Desktop\\Diğer Kodlar\\Alper Taşdemir 312471003\\DotNetCrudApp.csproj",
+      "libraryId": "Microsoft.EntityFrameworkCore.InMemory",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
